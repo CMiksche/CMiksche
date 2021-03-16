@@ -1,4 +1,8 @@
-### Hi there 👋
+### Servus 👋
+
+I am a Software Developer from Germany. Check out my [blog](https://blog.m5e.de/) or my [personal website](https://christoph.miksche.org/) if you wanna know more about me.
+
+You can find me also on [Twitter](https://twitter.com/cmiksche), [LinkedIn](https://www.linkedin.com/in/cmiksche/) and [XING](https://www.xing.com/profile/Christoph_Miksche).
 
 <!--
 **CMiksche/CMiksche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
